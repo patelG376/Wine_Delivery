@@ -1,0 +1,80 @@
+.row{ 
+    background-color:antiquewhite;
+}
+#color{ 
+    
+    height: 120px;
+    background-color: black;
+    color: white;
+    
+}
+#red{ 
+    color: rgb(162, 0, 255);
+    background-color: azure;
+}
+#london{ 
+    background-color:pink;
+    
+    height: 500px;
+}
+#code{ 
+    
+    height: 275px;
+    background-color: azure;
+}
+#green{ 
+    
+    height: 275px;
+    background-color: azure;
+}
+#yellow{ 
+    
+    height: 275px;
+    background-color: azure;
+}
+#pink{ 
+    background-color: turquoise;
+}
+#aqua{ 
+    background-color: azure;
+    color: brown;
+}
+#brown{ 
+    background-color: white;
+    color: blue;
+    
+}
+#brow{ 
+    color: blue;
+    background-color: white;
+}
+#large{ 
+    color: blue;
+    background-color: white;
+}
+.container{ 
+    
+    
+}
+.rey{ 
+    color: blue;
+}
+#wine{ 
+    background-color: white;
+    color: blue;
+}
+#last{ 
+    
+    background-color: black;
+    
+    color:white;
+    
+}
+#sushant{ 
+    background-color: black;
+    color: white;
+}
+#press{ 
+background-color: azure;
+color: red;
+}
